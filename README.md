@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/videos/Blog-Preview-Card.mp4)
+[![Watch the video](/assets/images/blog-preview-card.png)](/assets/videos/Blog-Preview-Card.mp4)
 
 ### Links
 
